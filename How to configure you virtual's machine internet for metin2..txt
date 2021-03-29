@@ -1,0 +1,19 @@
+#Hi , today i am gonna show you how to configure your virtual's machine internet.
+#So firt of all open virtual box and click start on your virtual machine already configured.
+#After the BSD boots and you are finished with inserted your password and id type in chat:
+sysinstall
+#After you typed sysinstall move with your arrows up/down and search Configure
+#After that you click Configure the next one to search (down) is Networking
+#After that you click Networking the next one to search is Interfaces
+#After that you click Interfaces click emo and after that NO,NO
+#Where is Host: put .localehost
+#Where is Domain : put localhost
+#Where is IPv4 Gateway put you hamachi's ip
+#Where is Name Server : put 4.2.2.3
+#Where is IPv4 Adress put your hamachi's ip but at the end of . you put .100
+=====EXAMPLE : 25.102.32.100<- .100=====
+#Where is NetMask: put 255.0.0.0
+#After that go and click OK,YES,CANCEL,CANCEL,Exist install
+#After that type in console :
+/etc/rc.d/netif restart
+-----YOU ARE DONE , CONGRATS FOR CONFIGURE YOUR NETWORK ON .VDI-----
