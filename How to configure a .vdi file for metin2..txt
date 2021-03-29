@@ -1,0 +1,10 @@
+#Hy i am gonna show you how to configure the .vdi file to create a metin2 server.
+#First of all open the Virtual Box , after that click the button New.
+#Where is Name : Put what name you want.
+#Where is Machine Folder: there is where your files are gonna save.
+#Where is type choose BSD
+#Where is Version Choose FreeBSD (32-bit)
+#At memory size it's up to you how much you want to give.
+#Where is Hard disk choose Use an existing virtual hard disk file.
+#After that click that little folder and search your virtual machine.
+---------YOU ARE DONE WITH THE BUILDING OF THE VIRTUAL MACHINE,CONGRATS---------
