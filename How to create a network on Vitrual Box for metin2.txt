@@ -1,0 +1,7 @@
+#Hi , today i am gonna show you how to create a network for your metin2 server
+#in Virtual Box.
+#So after you have your .vdi file installed go to the settings and 
+#click the network , after that where is Enable Network Adapter click
+#Attached to : and you will choose Bridged Adapter.
+#Where is the Name : choose LogMeIn Hamachi Virtual Ethernet Adapter.
+------------YOU ARE DONE , CONGRATS FOR MAKING YOUR HOST ON YOUR PC------------
